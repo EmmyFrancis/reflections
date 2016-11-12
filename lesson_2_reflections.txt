@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	It makes the the directiory a version control system, i.e ready to track change made to any file added using the git add command.
+	Initializing will enable git version control system to know the project you want to keep track of, not just everything in your computer.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	It contains the file which changes can be tracked unlike like working directory that contains everything about the project. It help to logically organise changes to be added to a commit before commiting, also as a reminder of changes that are yet to be commited.
