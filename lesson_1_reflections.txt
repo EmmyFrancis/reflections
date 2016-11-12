@@ -1,0 +1,33 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+	Using diff to check the changes I made before an unexpected error I can help me easily spot the error than having to check the entire file.
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+	It will make it easier to revert to an older version if you ever run into trouble. It will enhance your productivity by allowing to practice and move out of your comfort zone without the fear of losing what you have already created.
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+	The advantage are that you will know the best logical moment to commit your project and that you don't went so long without committing your project unlike automatic save version that will save illogical changes, while the disadvantage is that sometime you can humanly forget to commit your project which be difficult going back to the previous version of the project in case something going wrong unlike the automatic save version that save automatically for you.
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+	Because in git, each files inter-related to each other. Changes made in one of the files will in one way or the other affects the other files. While while in others, like Google Docs, files are not inter-related.
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+	 git log is use to view the history of all the changes made to a particular repository, with the commit names, IDs, dates etc show on the terminal. While git diff is use to compare the differences between two commit, by making use of their IDs to know what was added and what was deleted. 
+
+
+How might using version control make you more confident to make changes that could break something?
+
+	It make easier for trace the error and fix it by making use of check out command.
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+	I want to use git to have total control of my/group projects, so I can easily reverse to the change if anything goes wrong or to add new changes/feature in the future.
