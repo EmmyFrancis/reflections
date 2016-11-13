@@ -12,3 +12,10 @@ How is the staging area different from the working directory and the repository?
 How can you use the staging area to make sure you have one commit per logical change?
 
 	After making changes to some file on the working directory, the staging area can be useful by making sure only the changes that are logically related to each other are added to it before commiting. This will make sure logically related changes are committed at a time.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	- When working on a feature yet to be perfected before making it part of the main project.
+	- When fixing a bit complex bug that might take some time before re-intgreting back to the main code.
+	- When preparing documentation as you build a project.
